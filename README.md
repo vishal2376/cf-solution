@@ -1,6 +1,6 @@
 
 # Codeforces Solution Extension
-
+Get solutions of a specific problem quickly.
 
 <p align="center">
 	<a href="https://github.com/vishal2376/cf-solution/issues">
