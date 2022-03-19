@@ -3,14 +3,14 @@
 
 
 <p align="center">
-	<a href="https://github.com/vishal2376/cf-solutions/issues">
-	<img src="https://img.shields.io/github/issues/vishal2376/cf-solutions"/>
+	<a href="https://github.com/vishal2376/cf-solution/issues">
+	<img src="https://img.shields.io/github/issues/vishal2376/cf-solution"/>
 	</a>
-	<a href="https://github.com/vishal2376/cf-solutions/stargazers">
-	<img src="https://img.shields.io/github/stars/vishal2376/cf-solutions"/>
+	<a href="https://github.com/vishal2376/cf-solution/stargazers">
+	<img src="https://img.shields.io/github/stars/vishal2376/cf-solution"/>
 	</a>
-	<a href="https://github.com/vishal2376/cf-solutions/blob/master/LICENSE">
-	<img src="https://img.shields.io/github/license/vishal2376/cf-solutions"/>
+	<a href="https://github.com/vishal2376/cf-solution/blob/master/LICENSE">
+	<img src="https://img.shields.io/github/license/vishal2376/cf-solution"/>
 	</a>
 </p>
 
@@ -21,13 +21,13 @@
 ## Install Extension
 
 ```bash
-  git clone  https://github.com/vishal2376/cf-solutions
-  cd cf-solutions
+  git clone  https://github.com/vishal2376/cf-solution
+  cd cf-solution
 ```
 
 - After cloning, goto Extension settings in your Chrome browser.
 - Enable `developer mode`.
-- Click on `load packed` and open `cf-solutions` folder.
+- Click on `load packed` and open `cf-solution` folder.
 
 
 ## More projects :
