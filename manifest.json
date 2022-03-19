@@ -5,7 +5,7 @@
 	"version": "0.1",
 	"description": "Get CF solutions in one click",
 	"permissions": [
-		"activeTab",
+		"activeTab"
 		],
 	"background": {
 	"service_worker": "background.js"
