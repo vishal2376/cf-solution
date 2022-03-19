@@ -1,0 +1,13 @@
+{
+	"name" : "Codeforces solution",
+	"action": {},
+	"manifest_version": 3,
+	"version": "0.1",
+	"description": "Get CF solutions page directly",
+	"permissions": [
+		"activeTab",
+		],
+	"background": {
+	"service_worker": "background.js"
+	}
+}
